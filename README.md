@@ -10,8 +10,8 @@
 ##
 
 <div align="center">
-  <img height="180em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=vitor-frnds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=black"/>
-  <img height="180em" width="auto" align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-frnds&layout=compact&langs_count=7&theme=dracula&title_color=black"/>
+  <img height="180em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=vitor-frnds&show_icons=true&theme=dark&include_all_commits=false&count_private=true&title_color=black"/>
+  <img height="180em" width="auto" align="center"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-frnds&layout=compact&langs_count=7&theme=dark&title_color=black"/>
 </div>
 
 ##
@@ -30,3 +30,16 @@
   <img align="center" alt='HTML5' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt='CSS3' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>                                                                                                                                        
+
+<h4 align="center">Other:</h4>
+<div align="center">
+  <img alt='Git' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+##
+
+<div align="center"> 
+  <a href="https://www.instagram.com/vitor.frnds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.vitorfrnds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
