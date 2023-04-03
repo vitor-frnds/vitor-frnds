@@ -3,7 +3,7 @@
    <br>
 </div>
 
-- 🔭 I’m studying computer engineering at UFJF
+- 🔭 I’m studying computational engineering at UFJF
 - 🌱 I’m currently learning PHP
 - 📫 Contact me by email: contato.vitorfrnds@gmail.com
 
