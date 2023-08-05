@@ -3,8 +3,8 @@
    <br>
 </div>
 
-- 🔭 I’m studying computational engineering at UFJF
-- 🌱 I’m currently learning PHP
+- 🔭 I’m studying computational engineering at UFJF 
+- 🌱 I’m currently learning Laravel
 - 📫 Contact me by email: contato.vitorfrnds@gmail.com
 
 ##
@@ -23,17 +23,31 @@
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt='Javascript' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt='JAVA' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt='PHP' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
 <h4 align="center">Front End:</h4>
 <div align="center">
   <img align="center" alt='HTML5' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt='CSS3' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>                                                                                                                                        
+  <img align="center" alt='Bootstrap' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+
+<h4 align="center">Back End:</h4>
+<div align="center">
+  <img align="center" alt='PHP' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
+
+<h4 align="center">Database:</h4>
+<div align="center">
+  <img alt='MySql' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt='MongoDB' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
 
 <h4 align="center">Other:</h4>
 <div align="center">
   <img alt='Git' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt='Figma' height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 ##
