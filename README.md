@@ -42,6 +42,7 @@
 <div align="center">
   <img alt='MySql' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img alt='MongoDB' height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img alt='SQLite' height="50" width="60" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" />
 </div>
 
 <h4 align="center">Other:</h4>
